@@ -1,0 +1,6 @@
+com.radnor.DroidTest.BuildConfig
+com.radnor.DroidTest.R
+com.radnor.DroidTest.R$attr
+com.radnor.DroidTest.R$drawable
+com.radnor.DroidTest.R$layout
+com.radnor.DroidTest.R$string

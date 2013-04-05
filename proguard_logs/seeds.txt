@@ -1,0 +1,5 @@
+com.radnor.DroidTest.MyActivity
+com.radnor.DroidTest.MyActivity: MyActivity()
+com.radnor.DroidTest.R$drawable: int ic_launcher
+com.radnor.DroidTest.R$layout: int main
+com.radnor.DroidTest.R$string: int app_name
